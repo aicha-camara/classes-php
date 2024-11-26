@@ -3,7 +3,7 @@ require_once 'user-pdo.php';
 
 $dsn = 'mysql:host=localhost;dbname=classes';
 $username = 'root'; 
-$password = 'za9?-U5zwD4-6#L';     
+$password = '';     
 $options = [
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,

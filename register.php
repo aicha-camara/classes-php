@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <input type="text" name="firstname" id="firstname" required>
 
             <label for="lastname">Nom :</label>
-            <input type="text" name="lastname" id="lastname" required>
+            <input type="text" name="lastname" id="lastname" required>  
 
             <button type="submit">S'inscrire</button>
         </form>
